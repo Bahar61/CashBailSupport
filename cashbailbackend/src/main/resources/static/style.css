@@ -10196,7 +10196,7 @@ header.masthead h1 {
     width: 400px;
     background-color: rgba(0,0,0,0.5) !important;
     color: white;
-   # padding: 20px;
+    padding: 20px;
 }
 
 .social_icon span{
@@ -10269,11 +10269,22 @@ input:focus{
 }
 
 .mr-3 {
-    width: 3rem;
+    width: 9rem;
     height: auto;
 }
 .media {
     margin: 15px;
+}
+#page-top > div > ul > li > div > h5 {
+    background-color: rgb(221, 130, 56, 0.3);
+    height: 2rem;
+    padding: 5px;
+}
+#page-top > div > ul > li {
+    background-color: rgba(212, 131, 64, 0.2);
+}
+#page-top > div > div > nav > ul {
+    margin-left: 40%;
 }
 
 /* Register Page */
