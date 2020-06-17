@@ -3,6 +3,8 @@ Many people are being held in jail pretrial, meaning they have not yet been conv
 
 This software is meant to be used with a local non-profit on the ground who work with those who are in need of funds. These non-profits would run the software,  be responsible for vetting the recipients of the funds, and showcasing those in need. It is hoped that advocates who come across this software would reach out to the non-profits via this platform for assistance for those needing assistance.
 
+This software is meant to be used with a local non-profit on the ground who work with those who are in need of funds. These non-profits would run the software, be responsible for vetting the recipients of the funds, and showcasing those in need. It is hoped that advocates who come across this software would reach out to the non-profits via this platform for assistance for those needing assistance.
+
 https://www.prisonpolicy.org/reports/incomejails.html
 
 ## Preview
