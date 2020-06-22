@@ -5,23 +5,32 @@
 
 </div>
 <body>
-<div class="container">
+<div class="container" id="media-page">
 
-    <div class="row">
-        <div class="col-12" style="text-align: center">
-            <div th:replace="base :: title"></div>
+<div class="row">
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Detaining the Poor</h5>
+                <p class="card-text">How money bail perpetuates an endless cycle of poverty and jail time</p>
+                <a href="https://www.prisonpolicy.org/reports/incomejails.html" class="btn btn-primary">Go somewhere</a>
+            </div>
         </div>
     </div>
-
-    <div class="row">
-        <div class="col-12" style="text-align: center">
-            <div th:replace="base :: navlinks"></div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">BAIL REFORM</h5>
+                <p class="card-text">WOn any given day in 2015, roughly 700,000 people were locked up in local jails. The majority of them had not been
+                convicted of a crime.</p>
+                <a href="https://www.aclu.org/issues/smart-justice/bail-reform" class="btn btn-primary">Go somewhere</a>
+            </div>
         </div>
     </div>
 </div>
-<div class="container">
-    <div th:fragment="page_content"></div>
-</div>
+
+
+
 
 <div class="card-group">
     <div class="card">

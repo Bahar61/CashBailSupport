@@ -10197,6 +10197,10 @@ header.masthead h1 {
     background-color: rgba(0,0,0,0.5) !important;
     color: white;
     padding: 20px;
+<<<<<<< HEAD
+=======
+
+>>>>>>> ea62f7d6e501e5a2d045a53f2e1635350b3b08d9
 }
 
 .social_icon span{
@@ -10270,6 +10274,10 @@ input:focus{
 
 .mr-3 {
     width: 9rem;
+<<<<<<< HEAD
+=======
+
+>>>>>>> ea62f7d6e501e5a2d045a53f2e1635350b3b08d9
     height: auto;
 }
 .media {
@@ -10287,6 +10295,19 @@ input:focus{
     margin-left: 40%;
 }
 
+#page-top > div > ul > li > div > h5 {
+    background-color: rgb(221, 130, 56, 0.3);
+    height: 2rem;
+    padding: 5px;
+}
+#page-top > div > ul > li {
+    background-color: rgba(212, 131, 64, 0.2);
+}
+#page-top > div > div > nav > ul {
+    margin-left: 40%;
+}
+
+
 /* Register Page */
 #register-body{
     background-image: url(./images/orangeduo.jpg);
@@ -10294,4 +10315,12 @@ input:focus{
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
+
+}
+
+/* Media Page */
+
+#media-page {
+    margin: 15px;
+
 }
