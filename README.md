@@ -7,6 +7,9 @@ This software is meant to be used with a local non-profit on the ground who work
 
 https://www.prisonpolicy.org/reports/incomejails.html
 
+![](https://github.com/hackforblacklivesmatterteamjava/CashBailSupport/blob/bahar/static/img/arrest_pretrialdetention.png)
+![](https://github.com/hackforblacklivesmatterteamjava/CashBailSupport/blob/bahar/static/img/jail_nobail_income.png)
+=======
 ## Preview
 
 ![Website Preview](https://res.cloudinary.com/kristynf/image/upload/v1592227112/BailSupportBLM/Screen_Shot_2020-06-15_at_9.15.16_AM_ohereu.png)
