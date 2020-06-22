@@ -10197,6 +10197,7 @@ header.masthead h1 {
     background-color: rgba(0,0,0,0.5) !important;
     color: white;
     padding: 20px;
+
 }
 
 .social_icon span{
@@ -10270,11 +10271,13 @@ input:focus{
 
 .mr-3 {
     width: 9rem;
+
     height: auto;
 }
 .media {
     margin: 15px;
 }
+
 #page-top > div > ul > li > div > h5 {
     background-color: rgb(221, 130, 56, 0.3);
     height: 2rem;
@@ -10287,6 +10290,7 @@ input:focus{
     margin-left: 40%;
 }
 
+
 /* Register Page */
 #register-body{
     background-image: url(./images/orangeduo.jpg);
@@ -10294,10 +10298,12 @@ input:focus{
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
+
 }
 
 /* Media Page */
 
 #media-page {
     margin: 15px;
+
 }
